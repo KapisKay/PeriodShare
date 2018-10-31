@@ -1,0 +1,4 @@
+-To install the application you need a xammp or wamp with php version 7 or later.
+- Copy  the PeriodShare folder to the htdocs folder of of xampp or www folder of wamp.
+- Create a database with the name PeriodShare and import the PeriodShare.sql to the database.
+- You can run the application by visition http://localhost/PeriodShare in your favorite browser. [NB: the link may change depending on the configuration of your xampp or wampp]
